@@ -9,7 +9,10 @@
 import Foundation
 
 println("Hello, World!")
-
+println("Hello, World!")
+println("Hello, World!")
+println("Hello, World!")println("Hello, World!")
+println("Hello, World!")
 let a=10
 var b=7
 var who="gdgdgfdg"
